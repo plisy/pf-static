@@ -2,5 +2,8 @@
     "private": true,
     "scripts": {
         "start": "npx serve -n static"
+    },
+    "dependencies": {
+        "serve": "^11.3.2"
     }
 }
